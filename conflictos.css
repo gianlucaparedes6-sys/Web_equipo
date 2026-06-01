@@ -47,7 +47,7 @@ body {
 .card {
     background: #ffffff;
     border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    box-shadow: 0 4px 15px rgba(255, 0, 0, 0.05);
     padding: 2rem;
     border-top: 5px solid #1a1a1a; /* 👈 PROPIEDAD CLAVE: Cambiar este color generará conflicto */
     text-align: center;
